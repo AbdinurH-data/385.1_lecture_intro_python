@@ -13,7 +13,7 @@ print(300.5 + 0.5)
 
 # sep= attribute/parameter puts a separator of choice between the comma
 # separated value
-print(12, 24, -2, sep=';')
+# print(12, 24, -2, sep=';')
 
 print('but', 'not', 'including', sep='**')
 
@@ -32,3 +32,4 @@ hp = input('Enter your Home number: ')
 
 print('Mobile number is ', nb)
 print('Home number is ', hp)
+
